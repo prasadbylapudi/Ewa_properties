@@ -14,12 +14,12 @@ const HertageroomPage = () => {
           <div className="flex flex-col justify-start md:ml-[0] ml-[87px] md:px-5 w-[94%] md:w-full">
             <div className="flex md:flex-col flex-row font-opensans md:gap-[46px] items-start justify-between w-full">
               <Img
-                className="h-[78px] md:h-auto md:mt-0 mt-4 object-cover"
+                className="h-[70px] md:h-auto md:mt-0 mt-4 object-cover"
                 src="images/img_ewablackmark.png"
                 alt="ewablackmark"
               />
               <div className="flex md:flex-1 md:flex-col flex-row md:gap-10 items-center justify-between mb-2 p-[11px] w-[83%] md:w-full">
-                <div className="flex md:flex-col flex-row md:gap-10 gap-[74px] items-start justify-start md:ml-[0] ml-[17px] w-auto md:w-full">
+                <div className=" flex md:flex-col flex-row md:gap-10 gap-[74px] items-start justify-start md:ml-[0] ml-[17px] w-auto md:w-full md:pl-20">
                   <Text
                     className="common-pointer text-3xl sm:text-[26px] md:text-[28px] text-black-900 w-auto"
                     size="txtOpenSansRomanSemiBold30"
